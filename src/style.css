@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(244, 187, 103);
+}
+body {
+    margin: auto;
+    text-align: center;
+    border-radius: 30% ;
+}
+.title {
+    text-align: center;
+    margin: auto;
+}
+.todo {
+    
+    border-radius: 30% ;
+}
+
+.date {
+    text-align: center;
+    padding-right: auto;
+    margin: auto;
+}
+.checkbox {
+    padding-left: auto;
+}
